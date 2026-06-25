@@ -1,0 +1,78 @@
+ ul{
+            list-style-type: none;
+            padding: 0;
+            background-color: 	#ffffff;
+            display: flex;
+            top: 0%;
+            position: sticky;
+            margin-left: 0%;
+            margin-top: 0%;
+            width: 100%;
+            height:50px;
+            border-radius: 10px;
+
+        
+           
+        }
+        ul li{
+             border-right: solid rgb(255, 255, 255);
+             float: left;
+             border-bottom: none;
+            
+
+        }
+        ul li a{
+            display: block;
+            color: #000000;
+            padding: 15px 20px;
+            text-decoration: none;
+
+
+        }
+        ul li a:hover{
+            background-color: #efefef;
+
+        }
+         .down{
+            background-color: #cdcdcd;
+            color: rgb(0, 0, 0);
+            margin-top: 0%;
+            height: 30px;
+            border-radius: 30px;
+
+
+         }
+        h1{
+            font-size: 80px;
+        }
+        h2{
+            font-size: 50px;
+        }
+        .mc14{
+            margin-left: 500px;
+            margin-top: -300px;
+        }
+        .mc13{
+            margin-left:950px;
+            margin-top: -310px;
+
+        }
+        .n13{
+            margin-top:-10px;
+        }
+        .mc113{
+             margin-left:500px; 
+            margin-top:-310px;
+        }
+        .mc114{
+            margin-left:950px; 
+            margin-top:-340px;
+        }
+        .nd{
+        background-color: #ededed;
+        font-size: 12px;
+        padding: 10px 150px;
+        color: #7d7d7d;
+       font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+       border-radius: 30px;
+        }

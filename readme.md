@@ -1,0 +1,30 @@
+# Apple Website Clone
+
+This project is a responsive clone of the Apple official website built using HTML and CSS. The main purpose of this project is to improve front-end development skills by recreating the design, layout, and user interface of Apple's website.
+
+## Features
+
+* Responsive navigation bar
+* Modern landing page design
+* Product showcase sections
+* Clean and attractive UI
+* Responsive layout for different screen sizes
+* HTML and CSS only (no frameworks)
+
+## Technologies Used
+
+* HTML5
+* CSS3
+
+## Purpose
+
+This project was created for learning and practicing front-end web development concepts such as layouts, styling, responsiveness, and website design.
+
+## Author
+
+Vijay Kannan
+
+
+
+
+
